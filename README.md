@@ -27,4 +27,4 @@ This library is ideal for connecting to secure services like MQTT brokers or HTT
 Alternatively, add it to your `platformio.ini` file:
 
 ```ini
-lib_deps = cupcake08/MbedTLSClient
+lib_deps = cupcake08/Arduino-MbedTLS-Client
