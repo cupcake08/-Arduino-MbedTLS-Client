@@ -1,0 +1,21 @@
+{
+  "name": "MbedTLSClient",
+  "version": "1.0.0",
+  "description": "A straightforward TLS/SSL client for Arduino platforms (like ESP32) that use a built-in mbedTLS library. It's designed to wrap any underlying Arduino Client object (e.g., WiFiClient, EthernetClient, TinyGsmClient) to provide a secure TLS connection.",
+  "keywords": "tls, ssl, mbedtls, esp32, security, mqtt, https, client, arduino, tinyssm, sim7600",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cupcake08/MbedTLSClient.git"
+  },
+  "authors": [
+    {
+      "name": "Ankit Bhankharia",
+      "email": "bhankhariaa@pm.me",
+      "url": "https://x.com/bhankhariaa"
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "espressif32",
+  "headers": "MbedTLSClient.h"
+}
